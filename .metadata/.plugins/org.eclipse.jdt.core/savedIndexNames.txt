@@ -1,0 +1,14 @@
+INDEX VERSION 1.130+C:\Users\c.guiao.de.oliveira\Projetos_Automacao\.metadata\.plugins\org.eclipse.jdt.core
+978553852.index
+3248419723.index
+3554735222.index
+3854698192.index
+2924449819.index
+2235350907.index
+1263576825.index
+3476623972.index
+1305544968.index
+2961185829.index
+173394361.index
+547651748.index
+695750608.index

@@ -1,0 +1,18 @@
+package Principal;
+
+public class Inicio {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//System.out.println("Teste");
+	try {
+		Eventos browser = new Eventos();
+		
+		//browser.abrirNavegador("www.google.com", "IE");
+		browser.abrirNavegador("http://www.google.com.br", "chrome");
+		
+	} catch (Exception e) {
+		// TODO: handle exception
+	}
+}
+}
